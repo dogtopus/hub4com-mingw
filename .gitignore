@@ -1,0 +1,11 @@
+*.ncb
+*.user
+*.suo
+Release
+Debug
+build
+build32
+build64
+plugins/**/*.user
+plugins/**/Release
+plugins/**/Debug
